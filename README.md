@@ -96,3 +96,6 @@ Change this according to your backend url
 - Fetches entries on load, sends API requests to create, update, and delete configurations.
 
 - Shows a modal popup to edit an entry.
+
+## Currently deployed at
+https://codeway-case-frontend-p9n1.onrender.com
