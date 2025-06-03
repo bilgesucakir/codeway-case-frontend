@@ -99,3 +99,10 @@ Change this according to your backend url
 
 ## Currently deployed at
 https://codeway-case-frontend-p9n1.onrender.com
+
+##If you want to test it via deployed url, you can use the following already registere users:
+email: example@example.com
+password: example123*
+
+email: dummy3@example.com
+password: dummy123*3
