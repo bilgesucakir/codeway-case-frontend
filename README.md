@@ -27,7 +27,7 @@ A Vue.js frontend application for user authentication and configuration manageme
 
 ```bash
 git clone https://github.com/bilgesucakir/codeway-case.git
-cd codeway-case/codeway-case-frontend
+cd codeway-case-frontend
 npm install
 ```
 
